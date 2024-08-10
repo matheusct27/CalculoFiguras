@@ -1,1 +1,1 @@
-# CalculoFiguras
+# Calculo de figuras planas e espaciais
